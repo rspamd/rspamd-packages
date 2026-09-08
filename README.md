@@ -28,7 +28,7 @@ Configure these in your repository settings under Settings → Secrets and varia
 ## Supported Distributions
 
 ### Debian-based
-- Debian: bookworm, bullseye, trixie
+- Debian: bookworm, trixie
 - Ubuntu: focal, jammy, noble
 
 ### RPM-based
