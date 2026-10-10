@@ -29,7 +29,7 @@ Configure these in your repository settings under Settings → Secrets and varia
 
 ### Debian-based
 - Debian: bookworm, trixie
-- Ubuntu: focal, jammy, noble
+- Ubuntu: jammy, noble, resolute
 
 ### RPM-based
 - CentOS/RHEL: 8, 9, 10
